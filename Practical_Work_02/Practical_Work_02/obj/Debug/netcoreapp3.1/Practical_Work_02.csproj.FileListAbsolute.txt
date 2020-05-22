@@ -1,0 +1,11 @@
+C:\Users\ALEX EY\source\repos\Practical_Work_02\Practical_Work_02\bin\Debug\netcoreapp3.1\Practical_Work_02.exe
+C:\Users\ALEX EY\source\repos\Practical_Work_02\Practical_Work_02\bin\Debug\netcoreapp3.1\Practical_Work_02.deps.json
+C:\Users\ALEX EY\source\repos\Practical_Work_02\Practical_Work_02\bin\Debug\netcoreapp3.1\Practical_Work_02.runtimeconfig.json
+C:\Users\ALEX EY\source\repos\Practical_Work_02\Practical_Work_02\bin\Debug\netcoreapp3.1\Practical_Work_02.runtimeconfig.dev.json
+C:\Users\ALEX EY\source\repos\Practical_Work_02\Practical_Work_02\bin\Debug\netcoreapp3.1\Practical_Work_02.dll
+C:\Users\ALEX EY\source\repos\Practical_Work_02\Practical_Work_02\bin\Debug\netcoreapp3.1\Practical_Work_02.pdb
+C:\Users\ALEX EY\source\repos\Practical_Work_02\Practical_Work_02\obj\Debug\netcoreapp3.1\Practical_Work_02.csprojAssemblyReference.cache
+C:\Users\ALEX EY\source\repos\Practical_Work_02\Practical_Work_02\obj\Debug\netcoreapp3.1\Practical_Work_02.AssemblyInfoInputs.cache
+C:\Users\ALEX EY\source\repos\Practical_Work_02\Practical_Work_02\obj\Debug\netcoreapp3.1\Practical_Work_02.AssemblyInfo.cs
+C:\Users\ALEX EY\source\repos\Practical_Work_02\Practical_Work_02\obj\Debug\netcoreapp3.1\Practical_Work_02.dll
+C:\Users\ALEX EY\source\repos\Practical_Work_02\Practical_Work_02\obj\Debug\netcoreapp3.1\Practical_Work_02.pdb
