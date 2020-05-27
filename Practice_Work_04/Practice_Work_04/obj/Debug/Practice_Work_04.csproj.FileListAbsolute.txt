@@ -1,0 +1,10 @@
+C:\Users\ALEX EY\source\repos\Practice_Work_04\Practice_Work_04\bin\Debug\Practice_Work_04.exe.config
+C:\Users\ALEX EY\source\repos\Practice_Work_04\Practice_Work_04\bin\Debug\Practice_Work_04.exe
+C:\Users\ALEX EY\source\repos\Practice_Work_04\Practice_Work_04\bin\Debug\Practice_Work_04.pdb
+C:\Users\ALEX EY\source\repos\Practice_Work_04\Practice_Work_04\obj\Debug\Practice_Work_04.csprojAssemblyReference.cache
+C:\Users\ALEX EY\source\repos\Practice_Work_04\Practice_Work_04\obj\Debug\Practice_Work_04.Form1.resources
+C:\Users\ALEX EY\source\repos\Practice_Work_04\Practice_Work_04\obj\Debug\Practice_Work_04.Form2.resources
+C:\Users\ALEX EY\source\repos\Practice_Work_04\Practice_Work_04\obj\Debug\Practice_Work_04.Properties.Resources.resources
+C:\Users\ALEX EY\source\repos\Practice_Work_04\Practice_Work_04\obj\Debug\Practice_Work_04.csproj.GenerateResource.cache
+C:\Users\ALEX EY\source\repos\Practice_Work_04\Practice_Work_04\obj\Debug\Practice_Work_04.exe
+C:\Users\ALEX EY\source\repos\Practice_Work_04\Practice_Work_04\obj\Debug\Practice_Work_04.pdb
