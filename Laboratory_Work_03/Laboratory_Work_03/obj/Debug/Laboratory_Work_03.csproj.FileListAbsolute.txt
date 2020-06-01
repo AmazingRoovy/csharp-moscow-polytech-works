@@ -1,0 +1,10 @@
+C:\Users\ALEX EY\source\repos\Laboratory_Work_03\Laboratory_Work_03\bin\Debug\Laboratory_Work_03.exe.config
+C:\Users\ALEX EY\source\repos\Laboratory_Work_03\Laboratory_Work_03\bin\Debug\Laboratory_Work_03.exe
+C:\Users\ALEX EY\source\repos\Laboratory_Work_03\Laboratory_Work_03\bin\Debug\Laboratory_Work_03.pdb
+C:\Users\ALEX EY\source\repos\Laboratory_Work_03\Laboratory_Work_03\obj\Debug\Laboratory_Work_03.csprojAssemblyReference.cache
+C:\Users\ALEX EY\source\repos\Laboratory_Work_03\Laboratory_Work_03\obj\Debug\Laboratory_Work_03.Form1.resources
+C:\Users\ALEX EY\source\repos\Laboratory_Work_03\Laboratory_Work_03\obj\Debug\Laboratory_Work_03.Properties.Resources.resources
+C:\Users\ALEX EY\source\repos\Laboratory_Work_03\Laboratory_Work_03\obj\Debug\Laboratory_Work_03.csproj.GenerateResource.cache
+C:\Users\ALEX EY\source\repos\Laboratory_Work_03\Laboratory_Work_03\obj\Debug\Laboratory_Work_03.exe
+C:\Users\ALEX EY\source\repos\Laboratory_Work_03\Laboratory_Work_03\obj\Debug\Laboratory_Work_03.pdb
+C:\Users\ALEX EY\source\repos\Laboratory_Work_03\Laboratory_Work_03\obj\Debug\Laboratory_Work_03.Help_Form.resources
